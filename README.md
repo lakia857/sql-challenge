@@ -1,6 +1,9 @@
-This assignment evaluates the employees of a company. For the assignment, I built databases using Quick DBD to show visual database connections as well as exported the file into pgAdmin where I used queries to analyze data. Some of the data I analyzed includes the employees names, sex, salaries, departments and title to name a few. I evaluated hiring dates and even evaluted how many employees share the same last name using count function.
+This assignment evaluates the employees of a company. For the assignment, I constructed empty databases using Quick DBD to show visual database connections. Then, I exported the file into pgAdmin where I imported the raw data from multiple CSV files to fill in the empty databases. There, I used queries to analyze data. 
+
+Some of the data I analyzed includes the employees’ names, sex, salaries, departments and title to name a few. I evaluated hiring dates and even evaluated how many employees share the same last name using various SQL functions.
 
 Here are a couple of queries from the various databases.
+
 
 A List of Employees Hired in 1986:
 
